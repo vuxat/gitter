@@ -13,14 +13,18 @@ USAGE:
 Text files:
 You can add the links in differnt ways and also replace the save-filename with your own.
 e.g.
+
 https://github.com/FortySevenEffects/arduino_midi_library => gitter.sh will search for branch master.
 If it cannot find /tree/master it will retry with the newer declaration main.
 
 search directly for certain branches:
+
 https://github.com/FortySevenEffects/arduino_midi_library/tree/master
 https://github.com/FortySevenEffects/arduino_midi_library/tree/gh-pages
 
-e.g.
+renaming the files:
+
 https://github.com/danionescu0/arduino/tree/master danionescu0-arduino
+
 arduino seems to be a very common name - not good if you want to save it with every other arduino project via arduino.txt
 => by adding a specific name after the link it will rename the download file + adding the branch.
