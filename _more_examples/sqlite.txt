@@ -1,0 +1,6 @@
+https://github.com/SRombauts/SQLiteCpp
+https://github.com/SRombauts/SQLiteCpp_Example
+https://github.com/lmmir/CppSQLite3
+https://github.com/pawelsalawa/sqlitestudio
+https://github.com/neosmart/CppSQLite
+https://github.com/SqliteModernCpp/sqlite_modern_cpp

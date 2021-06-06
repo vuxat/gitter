@@ -1,0 +1,12 @@
+https://www.github.com/remoteit/docs
+https://www.github.com/remoteit/desktop
+https://www.github.com/remoteit/remoteitPi
+https://www.github.com/remoteit/cli
+https://www.github.com/remoteit/connectd
+https://www.github.com/remoteit/installer
+https://www.github.com/remoteit/azure-deploy
+https://www.github.com/remoteit/multiport
+https://www.github.com/remoteit/command-line
+https://www.github.com/remoteit/misc_bins_and_scripts
+https://www.github.com/remoteit/Server-Channel
+https://www.github.com/remoteit/http_modproxy

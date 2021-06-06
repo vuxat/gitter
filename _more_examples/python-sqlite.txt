@@ -1,0 +1,9 @@
+https://github.com/coleifer/sqlite-web
+https://github.com/rogerbinns/apsw
+https://github.com/RaRe-Technologies/sqlitedict
+https://github.com/rufuspollock/csv2sqlite
+https://github.com/ghaering/pysqlite
+https://github.com/breuckelen/sqlite
+https://github.com/palantir/sqlite3worker
+https://github.com/encode/databases
+https://github.com/encode/orm

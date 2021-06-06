@@ -1,0 +1,11 @@
+https://github.com/RigsOfRods/ogre-caelum
+https://github.com/RigsOfRods/rigs-of-rods
+https://github.com/RigsOfRods/ror-linux-buildscripts
+https://github.com/RigsOfRods/ror-server
+https://github.com/RigsOfRods/rigsofrods.org
+https://github.com/RigsOfRods/docs.rigsofrods.org
+https://github.com/RigsOfRods/multiplayer.rigsofrods.org
+https://github.com/RigsOfRods/ror-dependencies
+https://github.com/RigsOfRods/ror-updater
+https://github.com/RigsOfRods/ror-configurator-gtk
+https://github.com/RigsOfRods/ogre-pagedgeometry

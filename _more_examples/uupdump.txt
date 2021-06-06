@@ -1,0 +1,10 @@
+https://github.com/uup-dump/website
+https://github.com/uup-dump/api
+https://github.com/uup-dump/packs
+https://github.com/uup-dump/fileinfo
+https://github.com/uup-dump/autodl_files
+https://github.com/uup-dump/converter
+https://github.com/uup-dump/json-api
+https://github.com/uup-dump/dev-server
+https://github.com/uup-dump/standalone
+https://github.com/WOA-Project/guides

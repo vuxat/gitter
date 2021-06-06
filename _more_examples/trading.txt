@@ -1,0 +1,2 @@
+https://github.com/mrjbq7/ta-lib
+https://github.com/ameobea/robintrack

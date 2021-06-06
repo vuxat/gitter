@@ -1,0 +1,10 @@
+https://github.com/pyload/pyload/tree/main
+https://github.com/pyload/pyload/tree/develop
+https://github.com/pyload/updates
+https://github.com/pyload/pyload-android
+https://github.com/pyload/pyload.github.io
+https://github.com/pyload/pyload-bookmarklet
+https://github.com/pyload/pyload-plugins
+https://github.com/pyload/updatemanager
+https://github.com/pyload/pyload-webui
+https://github.com/pyload/pyload.org

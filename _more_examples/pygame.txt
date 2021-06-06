@@ -1,0 +1,10 @@
+https://github.com/LucXyMan/starseeker
+https://github.com/Andy-thor/SpaceShip-Starwars
+https://github.com/christiantgolden/Temper
+https://github.com/mcpalmer1980/pygame-hoverball
+https://github.com/programmerpremium/To_Do_App
+https://github.com/corro69/Spaced_invaders
+https://github.com/corro69/MyPy
+https://github.com/hug58/Lemon-Tank
+https://github.com/Pololot64/py2stereo
+https://github.com/LibreGamesArchive/galaxymageredux

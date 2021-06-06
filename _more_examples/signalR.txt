@@ -1,0 +1,8 @@
+https://github.com/SignalR/SignalR
+https://github.com/SignalR/sample-StreamR
+https://github.com/SignalR/sample_WebApiInSignalROut
+https://github.com/SignalR/sample-WithAutomaticReconnect
+https://github.com/SignalR/Samples
+https://github.com/SignalR/SignalR-Client-Cpp
+https://github.com/SignalR/SignalR-StockTicker
+https://github.com/SignalR/shootr

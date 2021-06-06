@@ -1,0 +1,17 @@
+https://github.com/wxWidgets/Phoenix
+https://github.com/wxWidgets/wxWidgets
+https://github.com/libexpat/libexpat
+https://github.com/wxWidgets/website
+https://github.com/glennrp/libpng
+https://github.com/catchorg/Catch2
+https://github.com/wxWidgets/wxPyWeb
+https://github.com/libjpeg-turbo/libjpeg-turbo
+https://github.com/memononen/nanosvg
+https://github.com/wxWidgets/buildbot
+https://github.com/madler/zlib
+https://github.com/vadz/libtiff
+https://github.com/gammasoft71/Examples_wxWidgets
+https://github.com/wxIshiko/wxWidgetsTutorials
+https://github.com/pravic/sciter-wxwidgets-sample
+https://github.com/Ravbug/wxWidgetsTemplate
+https://github.com/asjadenet/wxhellovcpkg

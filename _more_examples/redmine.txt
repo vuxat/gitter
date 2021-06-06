@@ -1,0 +1,7 @@
+https://github.com/redmine/redmine
+https://github.com/Smile-SA/redmine_queries_for_time_report
+https://github.com/kanety/jquery-simple-tree-table
+https://github.com/ekho/redmine_subtask_list_enhanced
+https://github.com/Intera/redmine_timesheet
+https://github.com/Smile-SA/redmine_smile_project_enumerations_custom_field_format
+https://github.com/eXolnet/redmine_risks
