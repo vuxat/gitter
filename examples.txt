@@ -1,0 +1,4 @@
+https://github.com/FortySevenEffects/arduino_midi_library
+https://github.com/FortySevenEffects/arduino_midi_library/tree/master
+https://github.com/FortySevenEffects/arduino_midi_library/tree/gh-pages
+https://github.com/danionescu0/arduino/tree/master danionescu0-arduino
