@@ -1,0 +1,14 @@
+https://github.com/nodejs/node
+https://github.com/nodejs/node-addon-api
+https://github.com/nodejs/nan
+https://github.com/nodejs/nodejs.org
+https://github.com/nodejs/node-core-utils
+https://github.com/nodejs/webcrypto
+https://github.com/nodejs/abi-stable-node
+https://github.com/nodejs/repl
+https://github.com/nodejs/docker-node
+https://github.com/nodejs/node-addon-examples
+https://github.com/nodejs/github-bot
+https://github.com/nodejs/http-parser
+https://github.com/nodejs/string_decoder
+https://github.com/nodejs/i18n

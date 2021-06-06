@@ -1,0 +1,2 @@
+https://github.com/google/guava
+https://github.com/ngallagher/simpleframework

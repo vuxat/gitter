@@ -1,0 +1,13 @@
+https://github.com/odoo/odoo
+https://github.com/odoo/owl
+https://github.com/odoo/documentation-user
+https://github.com/odoo/runbot
+https://github.com/odoo/ps-runbot-testing
+https://github.com/odoo/technical-training
+https://github.com/odoo/technical-training-solutions
+https://github.com/odoo/odoo-client-lib
+https://github.com/odoo/OdooLocust
+https://github.com/odoo/odoo-extra
+https://github.com/odoo/petstore
+https://github.com/odoo/odoo/tree/saas-18
+https://github.com/odoo/odoo/tree/13.0

@@ -1,0 +1,14 @@
+https://github.com/tesseract-ocr/tessdoc/tree/master
+https://github.com/tesseract-ocr/tesseract/tree/master
+https://github.com/tesseract-ocr/tessdata/tree/master
+https://github.com/tesseract-ocr/tesstrain/tree/master
+https://github.com/tesseract-ocr/langdata/tree/master
+https://github.com/tesseract-ocr/tessdata_best/tree/master
+https://github.com/tesseract-ocr/tessdata_fast/tree/master
+https://github.com/tesseract-ocr/tesseract-ocr.github.io/tree/master
+https://github.com/tesseract-ocr/tessapi/tree/master
+https://github.com/tesseract-ocr/docs/tree/master
+https://github.com/tesseract-ocr/tessdata_contrib/tree/master
+https://github.com/tesseract-ocr/tessconfigs/tree/master
+https://github.com/tesseract-ocr/langdata_lstm/tree/master
+https://github.com/tesseract-ocr/test/tree/master

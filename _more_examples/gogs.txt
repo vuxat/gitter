@@ -1,0 +1,15 @@
+https://www.github.com/gogs/gogs
+https://www.github.com/gogs/docs
+https://www.github.com/gogs/go-gogs-client
+https://www.github.com/gogs/docs-api
+https://www.github.com/gogs/git-module
+https://www.github.com/gogs/chardet
+https://www.github.com/gogs/gogsweb.peach
+https://www.github.com/gogs/git-module-testrepo
+https://www.github.com/gogs/go-libravatar
+https://www.github.com/gogs/cron
+https://www.github.com/gogs/git
+https://www.github.com/gogs/minwinsvc
+https://www.github.com/gogs/packaging
+https://www.github.com/gogs/gogsweb
+https://www.github.com/gogs/webdav
