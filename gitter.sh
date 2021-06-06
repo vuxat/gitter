@@ -35,7 +35,10 @@ for INPUTARG in $@; do
 		GITVERSOVRD=1
 		echo "Arg.: replacing link Version with ${GITVERS}";;
 	"--help" )
-		echo "USAGE: $0 [master|dev] *|nothing for all or a certain textfile (without .txt)
+		echo "USAGE: ./$0 |nothing - go through all textfiles and download every repository again
+./$0 {certain-file} (without .txt) | download every repository from this specific file
+./$0 -m | download only missing repositories
+./$0 {certain-file} -f={name} | (re)download from this file every repository with path containing stated name
 "
 		exit 0;;
 	"--missing" | "-m" )
