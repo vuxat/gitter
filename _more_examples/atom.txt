@@ -1,0 +1,14 @@
+https://github.com/atom/atom
+https://github.com/atom/fs-admin
+https://github.com/atom/watcher
+https://github.com/atom/language-typescript
+https://github.com/atom/language-python
+https://github.com/atom/language-javascript
+https://github.com/atom/language-java
+https://github.com/atom/flight-manual.atom.io
+https://github.com/atom/language-php
+https://github.com/atom/language-c
+https://github.com/atom/atomdoc
+https://github.com/atom/autocomplete-plus
+https://github.com/atom/language-csharp
+https://github.com/atom/autocomplete-atom-api
