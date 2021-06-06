@@ -1,9 +1,0 @@
-https://www.github.com/hexya-erp/hexya-demo
-https://www.github.com/hexya-erp/hexya
-https://www.github.com/hexya-erp/OTH
-https://www.github.com/hexya-erp/docker
-https://www.github.com/hexya-erp/pool
-https://www.github.com/hexya-erp/hexya-erp.github.io
-https://www.github.com/hexya-erp/hexya-base
-https://www.github.com/hexya-erp/website
-https://www.github.com/hexya-erp/hexya-addons

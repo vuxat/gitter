@@ -1,6 +1,0 @@
-https://github.com/ZzAntares/ProxmoxVE
-https://github.com/swayf/proxmoxer
-https://github.com/extremeshok/xshok-proxmox
-https://github.com/Telmate/proxmox-api-go
-https://github.com/LordGaav/proxmox-deploy
-https://github.com/DerDanilo/proxmox-stuff

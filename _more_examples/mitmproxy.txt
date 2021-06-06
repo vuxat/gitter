@@ -1,4 +1,0 @@
-https://github.com/mitmproxy/mitmproxy
-https://github.com/mitmproxy/pdoc
-https://github.com/mitmproxy/www
-https://github.com/mitmproxy/share.mitmproxy.org

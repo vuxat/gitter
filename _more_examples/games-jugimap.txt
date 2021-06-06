@@ -1,7 +1,0 @@
-https://github.com/Jugilus/JugimapFramework
-https://github.com/Jugilus/Jugimap-FrameworkDemo
-https://github.com/Jugilus/Jugimap-SpriteTimelineAnimation
-https://github.com/Jugilus/Jugimap-GuiDemo
-https://github.com/Jugilus/Jugimap-ApiDemoTest
-https://github.com/Jugilus/Jugimap-ParallaxScrolling
-https://github.com/Jugilus/JugimapFrameworkDoc

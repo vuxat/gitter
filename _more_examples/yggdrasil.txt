@@ -1,7 +1,0 @@
-https://github.com/yggdrasil-network/public-peers/tree/master
-https://github.com/yggdrasil-network/yggdrasil-android/tree/master
-https://github.com/yggdrasil-network/yggdrasil-go/tree/master
-https://github.com/yggdrasil-network/yggdrasil-network.github.io/tree/master
-https://github.com/yggdrasil-network/yggdrasil-extras/tree/master
-https://github.com/yggdrasil-network/water/tree/master
-https://github.com/yggdrasil-network/water/tree/gh-pages

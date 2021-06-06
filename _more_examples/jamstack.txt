@@ -1,5 +1,0 @@
-https://github.com/jamstack-cms/jamstack-cms
-https://github.com/jamstack-cms/jamstack-ecommerce
-https://github.com/jamstack-cms/serverless-backend jamstack-cms-serverless-backend
-https://github.com/jamstack/jamstack.org
-https://github.com/peduarte/jamstack-wtf

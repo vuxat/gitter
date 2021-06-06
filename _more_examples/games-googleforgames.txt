@@ -1,5 +1,0 @@
-https://github.com/googleforgames/open-match
-https://github.com/googleforgames/agones
-https://github.com/googleforgames/open-match-ecosystem
-https://github.com/googleforgames/cloud-game-servers-examples
-https://github.com/googleforgames/open-match-docs

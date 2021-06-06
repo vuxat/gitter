@@ -1,8 +1,0 @@
-https://www.github.com/stackphp/builder
-https://www.github.com/stackphp/url-map
-https://www.github.com/stackphp/LazyHttpKernel
-https://www.github.com/stackphp/CallableHttpKernel
-https://www.github.com/stackphp/run
-https://www.github.com/stackphp/session
-https://www.github.com/stackphp/stackphp.com
-https://www.github.com/stackphp/inline

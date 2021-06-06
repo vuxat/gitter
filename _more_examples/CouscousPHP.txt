@@ -1,7 +1,0 @@
-https://www.github.com/CouscousPHP/Couscous
-https://www.github.com/CouscousPHP/GitHub-Action
-https://www.github.com/CouscousPHP/Template-Dark
-https://www.github.com/CouscousPHP/Template-Light
-https://www.github.com/CouscousPHP/Template-ReadTheDocs
-https://www.github.com/CouscousPHP/markua
-https://www.github.com/CouscousPHP/Template-Basic

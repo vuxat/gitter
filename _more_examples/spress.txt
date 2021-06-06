@@ -1,9 +1,0 @@
-https://www.github.com/spress/spress.github.io
-https://www.github.com/spress/spress.yosymfony.com
-https://www.github.com/spress/spress
-https://www.github.com/spress/spress-core
-https://www.github.com/spress/github-metadata-plugin
-https://www.github.com/spress/spress-theme-spresso
-https://www.github.com/spress/spress-installer
-https://www.github.com/spress/spress-import
-https://www.github.com/spress/openshift-spress-cartridge

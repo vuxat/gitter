@@ -1,5 +1,0 @@
-https://github.com/audacity/audacity/tree/master
-https://github.com/audacity/audacity-manual/tree/master
-https://github.com/audacity/portaudio/tree/master
-https://github.com/audacity/wxWidgets/tree/audacity-fixes-3.1.3
-https://github.com/audacity/wxWidgets/tree/master

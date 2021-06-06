@@ -1,7 +1,0 @@
-https://github.com/kevinpapst/kimai2
-https://github.com/kimai/www.kimai.org
-https://github.com/kimai/user-bundle
-https://github.com/kevinpapst/kimai2-console
-https://github.com/mxgross/EasyBackupBundle
-https://github.com/infeeeee/kimai2-cmd
-https://github.com/neontribe/ChromeExtBundle

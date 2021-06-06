@@ -1,4 +1,0 @@
-https://github.com/haproxy/haproxy
-https://github.com/Yelp/synapse-tools
-https://github.com/Yelp/hacheck
-https://github.com/airbnb/synapse

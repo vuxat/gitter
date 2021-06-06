@@ -1,7 +1,0 @@
-https://www.github.com/cefsharp/CefSharp
-https://www.github.com/cefsharp/CefSharp.MinimalExample
-https://www.github.com/cefsharp/CefSharp.Wpf.HwndHost
-https://www.github.com/cefsharp/cef-binary
-https://www.github.com/cefsharp/cefsharp.github.io
-https://www.github.com/cefsharp/CefSharp.Tutorial
-https://github.com/OutSystems/WebView

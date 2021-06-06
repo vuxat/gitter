@@ -1,6 +1,0 @@
-https://www.github.com/grocy/grocy-website
-https://www.github.com/grocy/grocy
-https://www.github.com/grocy/grocy-docker
-https://www.github.com/grocy/grocy-desktop
-https://www.github.com/grocy/docs
-https://www.github.com/grocy/grocy-pyscanner
