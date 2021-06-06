@@ -1,0 +1,13 @@
+https://www.github.com/stoq/stoq-react-components
+https://www.github.com/stoq/stoq-server
+https://www.github.com/stoq/stoq
+https://www.github.com/stoq/stoq-utils
+https://www.github.com/stoq/pytest-stoq
+https://www.github.com/stoq/stoqdrivers
+https://www.github.com/stoq/Dockerfiles
+https://www.github.com/stoq/pgnotify
+https://www.github.com/stoq/kiwi
+https://www.github.com/stoq/flatpickr
+https://www.github.com/stoq/stoq-manifest
+https://www.github.com/stoq/ubuntu-stoq-default-settings
+https://www.github.com/stoq/git-stoq

@@ -1,0 +1,10 @@
+https://www.github.com/collectd/collectd
+https://www.github.com/collectd/website
+https://www.github.com/collectd/python-plugins
+https://www.github.com/collectd/go-collectd
+https://www.github.com/collectd/go-plugins
+https://www.github.com/collectd/collectd.github.io
+https://www.github.com/collectd/ci-docker
+https://www.github.com/collectd/pkg-debian
+https://www.github.com/collectd/collectd-ci
+https://www.github.com/collectd/jcollectd

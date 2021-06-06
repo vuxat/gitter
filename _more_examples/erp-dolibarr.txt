@@ -1,0 +1,7 @@
+https://www.github.com/Dolibarr/dolibarr
+https://www.github.com/Dolibarr/dolibarr-doxygen
+https://www.github.com/Dolibarr/dolibarr-foundation
+https://www.github.com/Dolibarr/stale
+https://www.github.com/Dolibarr/fig-standards
+https://www.github.com/Dolibarr/www.php-fig.org
+https://www.github.com/Dolibarr/dongleauth

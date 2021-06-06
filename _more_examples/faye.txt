@@ -1,0 +1,14 @@
+https://github.com/faye/websocket-driver-node
+https://github.com/faye/wstest
+https://github.com/faye/websocket-driver-ruby
+https://github.com/faye/faye
+https://github.com/faye/websocket-extensions-ruby
+https://github.com/faye/faye-websocket-node
+https://github.com/faye/permessage-deflate-node
+https://github.com/faye/faye-websocket-ruby
+https://github.com/faye/permessage-deflate-ruby
+https://github.com/faye/websocket-extensions-node
+https://github.com/faye/faye-redis-ruby
+https://github.com/faye/faye-redis-node
+https://github.com/faye/code-of-conduct
+https://github.com/faye/faye-cluster-node

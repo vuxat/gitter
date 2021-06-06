@@ -1,0 +1,4 @@
+https://www.github.com/ilscipio/scipio-erp
+https://www.github.com/ilscipio/addons-angular-shop
+https://www.github.com/ilscipio/scipio-docker
+https://www.github.com/ilscipio/hibiscus

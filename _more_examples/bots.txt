@@ -1,0 +1,5 @@
+https://github.com/adafruit/adabot
+https://github.com/OWASP/Owbot
+https://github.com/howdyai/botkit
+https://github.com/microsoft/botframework
+https://github.com/cisco/mindmeld

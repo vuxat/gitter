@@ -1,0 +1,10 @@
+https://github.com/dronemapper-io/CropAnalysis
+https://github.com/dronemapper-io/NodeMICMAC
+https://github.com/dronemapper-io/imageprocessing
+https://github.com/micasense/imageprocessing micasense-imageprocessing
+https://github.com/dronemapper-io/micmac
+https://github.com/micmacIGN/micmac micmacIGN-micmac
+https://github.com/micmacIGN/Documentation micmacIGN-micmac-documentation
+https://github.com/dronemapper-io/WebODM
+https://github.com/dronemapper-io/aruco-geobits
+https://github.com/dronemapper-io/dji-dewarp

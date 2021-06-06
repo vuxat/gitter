@@ -1,0 +1,9 @@
+https://github.com/aaronpk/oauth.net
+https://github.com/ssqsignon/passport-ssqsignon
+https://github.com/ssqsignon/ssqsignon-proxy
+https://github.com/ssqsignon/angular-ssqsignon
+https://github.com/ssqsignon/ssqsignon-examples
+https://github.com/ssqsignon/jquery.ssqsignon
+https://github.com/ssqsignon/ssqsignon-authproxy
+https://github.com/ssqsignon/microsoft-owin-security-ssqsignon
+https://github.com/babelouest/oauth-ng

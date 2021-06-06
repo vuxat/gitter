@@ -1,0 +1,8 @@
+https://github.com/cnlohr/rawdrawandroid
+https://github.com/cnlohr/rawdrawandroidexample
+https://github.com/cnlohr/androidusbtest
+https://github.com/cnlohr/noeuclid
+https://github.com/aaronjwood/PortAuthority/tree/development
+https://github.com/aaronjwood/PortAuthority/tree/master
+https://github.com/aaronjwood/PortAuthority/tree/ethernet
+https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/tree/master
