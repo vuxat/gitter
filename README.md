@@ -1,7 +1,7 @@
 # gitter
 GIT Repository Downloader / Helper Script
 
-Shell Script for downloading GIT repositories.
+Shell Script for downloading GIT repositories as zip files.
 
 Add one or more text files with GIT/gitlab repository links beside the gitter.sh script.
 
