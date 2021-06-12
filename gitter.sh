@@ -98,6 +98,9 @@ gitdl () {
 		if [[ "${gitlinkdl}" == *"/tree/"* ]] ; then
 			#~ gitverscur="${gitfile}"
 			gitlinkdl="${gitlinkdl%/tree/*}"
+			if [[ "${gitlinkdl}" =~ "/-" ]] ; then
+				gitlinkdl="${gitlinkdl%/-}"
+			fi
 			gitfile="${gitlinkdl##*/}"
 			gitverscur="${gitlink##*/tree/}"
 			gitverscur="${gitverscur% *}"
@@ -124,7 +127,7 @@ gitdl () {
 			fi
 		fi
 		COUNTC=$((COUNTC+1))
-		if [[ "${gitlinkdl}" =~ "gitlab.com" ]] || [[ "${gitlinkdl}" =~ "ow2.org" ]] ; then
+		if [[ "${gitlinkdl}" =~ "gitlab.com" ]] || [[ "${gitlinkdl}" =~ "ow2.org" ]] || [[ "${gitlinkdl}" =~ "gnome.org" ]] ; then
 			gitlinkdl="${gitlinkdl}/-"
 		fi
 		if [ -f "${CURGITDLDIR}/__current.zip" ] ; then
