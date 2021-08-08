@@ -11,8 +11,10 @@ RUNVARN=0
 GITVERSOVRD=0
 GITVERS=""
 FILTER=""
+ARCHIVE=""
 ONLYMISSING=0
 DLSUM=0
+ERRORMSG=""
 
 # exit codes and text
 ENO_SUCCESS=0; ETXT[0]="ENO_SUCCESS"
@@ -22,6 +24,7 @@ ENO_RECVSIG=3; ETXT[3]="ENO_RECVSIG"
 
 GITVERS="master"
 GITVERSSTND="master"
+GITVERSSTND2="main"
 
 starttime=$(date +"%Y-%m-%d_%H-%M-%S")
 
@@ -47,6 +50,15 @@ for INPUTARG in $@; do
 	"--filter="* | "-f="* )
 		FILTER="${INPUTARG#*=}"
 		echo "Arg.: Filter downloads for *${FILTER}*";;
+	"--archive="* | "-a="* )
+		ARCHIVE="${INPUTARG#*=}"
+		find="now"
+		replace=$(date +"%Y-%m-%d_%H-%M-%S")
+		ARCHIVE="${ARCHIVE//$find/$replace}"
+		find="date"
+		replace=$(date +"%Y-%m-%d")
+		ARCHIVE="${ARCHIVE//$find/$replace}"
+		echo "Arg.: Archive downloads with ${ARCHIVE}";;
 	* )
 		RUNVARN=$((RUNVARN+1))
 		if [ ${RUNVARN} -eq 1 ] ; then
@@ -109,6 +121,12 @@ gitdl () {
 		fi
 		if [[ "${gitlink}" =~ ( ) ]] ; then
 			gitfile="${gitlink##* }"
+			find="{{now}}"
+			replace=$(date +"%Y-%m-%d_%H-%M-%S")
+			gitfile="${gitfile//$find/$replace}"
+			find="{{date}}"
+			replace=$(date +"%Y-%m-%d")
+			gitfile="${gitfile//$find/$replace}"
 			echo "--- Using diverging filename --- ${gitfile}"
 		fi
 		#~ if [[ "${gitlink}" =~ "/tree/" ]]; then
@@ -118,6 +136,9 @@ gitdl () {
 				return
 			fi
 			gitverscurname="${GITVERS}"
+		fi
+		if [[ "${ARCHIVE}" != "" ]]; then
+			gitfile="${gitfile}_${ARCHIVE}"
 		fi
 		echo "--- Current target is ${CURGITDLDIR}/${gitfile}-${gitverscurname} ..."
 		if [ ${ONLYMISSING} -eq 1 ] ; then
@@ -141,18 +162,21 @@ gitdl () {
 		echo "Filesize is ${file_size}"
 		if [ ${file_size} -le 100 ] ; then
 			rm "${CURGITDLDIR}/__current.zip"
-			if [ "${gitverscurname}" == "master" ] ; then
-				echo "---- MASTER not successful - trying main"
-				gitverscur="main"
+			if [ "${gitverscurname}" == "${GITVERSSTND}" ] ; then
+				echo "---- ${gitverscurname} not successful - trying ${GITVERSSTND2}"
+				gitverscur="${GITVERSSTND2}"
 				curl --progress-bar -o "${CURGITDLDIR}/__current.zip" -L ${gitlinkdl}/archive/${gitverscur}.zip
 				file_size=`du -b "${CURGITDLDIR}/__current.zip" | cut -f1`
 				echo "Filesize is ${file_size}"
 				if [ ${file_size} -le 100 ] ; then
-					echo "---- ERROR: MAIN also not successful"
+					echo "---- ERROR: ${GITVERSSTND2} also not successful"
 					rm "${CURGITDLDIR}/__current.zip"
+					ERRORMSG="${ERRORMSG}Unsuccessful: ${CURGITDLDIR}/${gitfile}-${gitverscurname}"$'\n'
 				else
 					DLSUM=$((DLSUM+file_size))
 				fi
+			else
+				ERRORMSG="${ERRORMSG}Unsuccessful: ${CURGITDLDIR}/${gitfile}-${gitverscurname}"$'\n'
 			fi
 		else
 			DLSUM=$((DLSUM+file_size))
@@ -183,3 +207,6 @@ stoptime=$(date +"%Y-%m-%d_%H-%M-%S")
 echo "$starttime - $stoptime"
 echo "${COUNTF} files; ${COUNTC} downloads"
 echo "total download size: $(numfmt --to iec --format '%8.2f' ${DLSUM})"
+if [ "${ERRORMSG}" != "" ] ; then
+	echo "${ERRORMSG}"
+fi
